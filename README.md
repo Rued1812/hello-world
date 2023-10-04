@@ -1,3 +1,3 @@
 # hello-world
-This is my second repository. This is super great
+This is my second repository.
 I am looking forward to learning more. 
